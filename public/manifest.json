@@ -1,0 +1,15 @@
+{
+  "short_name": "Smart Grid AI",
+  "name": "Smart Grid AI Monitoring Dashboard",
+  "icons": [
+    {
+      "src": "grid-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0075ff",
+  "background_color": "#0f1535"
+}
